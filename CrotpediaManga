@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Gyooz/https-crotpedia.net-.git
+git branch -M main
+git push -u origin main
